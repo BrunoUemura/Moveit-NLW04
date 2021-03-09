@@ -1,0 +1,22 @@
+[
+    {
+        "type": "body",
+        "description": "Estique um de seus braços com a palma da mão virada para frente e puxe os dedos para cima por 1 minuto.",
+        "amount": 80
+    },
+    {
+        "type": "body",
+        "description": "Estique seus braços contra o peito e puxe-o utilizando o outro braço por 10 segundos por braço",
+        "amount": 60
+    },
+    {
+        "type": "body",
+        "description": "Cruze as pernas e desça com a mão esticada até o chão",
+        "amount": 100
+    },
+    {
+        "type": "eye",
+        "description": "Vire o olho para cima e conte até 20",
+        "amount": 40
+    }
+]
